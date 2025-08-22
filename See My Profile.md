@@ -19,12 +19,14 @@ I enjoy collaborating with development teams to improve processes and ensure sof
   <span style="color:#FFD700;">About Me</span>
 </h3>
 
+---
 <p align="center">
   <img src="https://img.shields.io/badge/Manual%20Testing-blue?style=for-the-badge&logo=testing-library&logoColor=white" alt="Manual Testing"/>
   <img src="https://img.shields.io/badge/Automation%20Testing-green?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation Testing"/>
   <img src="https://img.shields.io/badge/QA%20Engineer-purple?style=for-the-badge&logo=githubactions&logoColor=white" alt="QA Engineer"/>
 </p>
 
+---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Manual+%26+Automation+Testing+Specialist. ;Passionate+%7CQuality+%7CAutomation+%7CCollaboration."/>
 </p>
