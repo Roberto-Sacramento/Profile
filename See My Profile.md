@@ -7,6 +7,13 @@
 
 ---
 
+### 👨‍💻 About Me
+<p align="left" style="color:#FFD700;">
+Hi! I'm Roberto Sacramento, a dedicated Quality Assurance professional with a passion for both manual and automation testing.  
+I have hands-on experience designing and executing manual test cases to ensure software quality, as well as developing robust automation frameworks using tools like Selenium, Cucumber, and Jenkins.  
+My goal is to deliver reliable, high-quality software by combining analytical thinking, attention to detail, and a continuous drive to learn new testing technologies.  
+I enjoy collaborating with development teams to improve processes and ensure software delivery with excelence!
+  
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
   <span style="color:#FFD700;">About Me</span>
@@ -20,12 +27,6 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Manual+%26+Automation+Testing+Specialist. ;Passionate+%7CQuality+%7CAutomation+%7CCollaboration."/>
-</p>
-
-<p align="center" style="color:#FFD700;">
-  I’m a dedicated QA Engineer with hands-on experience in both manual and automation testing.<br>
-  I love building robust test frameworks, ensuring software quality, and collaborating with teams to deliver the best user experience.<br>
-  Always eager to learn new tools and technologies to improve testing processes and software reliability.
 </p>
 
 ---
@@ -42,7 +43,20 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL Database" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" alt="Datadog" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40"/>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Roberto-Sacramento&hide=stars&show_icons=true&theme=highcontrast)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-Sacramento&theme=highcontrast)](https://github.com/Roberto-Sacramento/github-readme-stats) 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Roberto-Sacramento&theme=dark&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
