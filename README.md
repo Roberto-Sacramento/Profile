@@ -1,4 +1,3 @@
-##
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f9ff00&width=500&lines=%F0%9F%A4%96+Hello+there!+I'm+Roberto+Sacramento+%F0%9F%A4%96;%f0%9f%a4%98+Welcome+to+my+profile!%f0%9f%a5%87)](https://git.io/typing-svg)
 
@@ -7,7 +6,6 @@
 
 ---
 
- 
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
   <span style="color:#FFD700;">About Me</span>
@@ -30,7 +28,6 @@ I enjoy collaborating with development teams to improve processes and ensure sof
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Manual+%26+Automation+Testing+Specialist. ;Passionate+%7CQuality+%7CAutomation+%7CCollaboration."/>
 </p>
 
----
 
 ## 🧪 Automation Testing Tech Stack
 <p align="left"
@@ -43,6 +40,7 @@ I enjoy collaborating with development teams to improve processes and ensure sof
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Bit" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL Database" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" alt="Datadog" width="40"/>
