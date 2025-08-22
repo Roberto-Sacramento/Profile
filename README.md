@@ -7,17 +7,18 @@
 
 ---
 
-### 👨‍💻 About Me
+ 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
+  <span style="color:#FFD700;">About Me</span>
+</h3>
+
 <p align="left" style="color:#FFD700;">
 Hi! I'm Roberto Sacramento, a dedicated Quality Assurance professional with a passion for both manual and automation testing.  
 I have hands-on experience designing and executing manual test cases to ensure software quality, as well as developing robust automation frameworks using tools like Selenium, Cucumber, and Jenkins.  
 My goal is to deliver reliable, high-quality software by combining analytical thinking, attention to detail, and a continuous drive to learn new testing technologies.  
 I enjoy collaborating with development teams to improve processes and ensure software delivery with excelence!
-  
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" alt="Waving hand"/>
-  <span style="color:#FFD700;">About Me</span>
-</h3>
+ 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Manual%20Testing-blue?style=for-the-badge&logo=testing-library&logoColor=white" alt="Manual Testing"/>
