@@ -11,6 +11,10 @@
   <span style="color:#FFD700;">About Me</span>
 </h3>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Manual+%26+Automation+Testing+Specialist.;Passionate+%7CQuality+%7CAutomation+%7CCollaboration." alt="Animated typing: Manual & Automation Testing Specialist. Passionate | Quality | Automation | Collaboration.">
+</h3>
+
 <p align="left" style="color:#FFD700;">
 Hi! I'm Roberto Sacramento, a dedicated Quality Assurance professional with a passion for both manual and automation testing.  
 I have hands-on experience designing and executing manual test cases to ensure software quality, as well as developing robust automation frameworks using tools like Selenium, Cucumber, and Jenkins.  
@@ -21,10 +25,6 @@ I enjoy collaborating with development teams to improve processes and ensure sof
   <img src="https://img.shields.io/badge/Manual%20Testing-blue?style=for-the-badge&logo=testing-library&logoColor=white" alt="Manual Testing"/>
   <img src="https://img.shields.io/badge/Automation%20Testing-green?style=for-the-badge&logo=selenium&logoColor=white" alt="Automation Testing"/>
   <img src="https://img.shields.io/badge/QA%20Engineer-purple?style=for-the-badge&logo=githubactions&logoColor=white" alt="QA Engineer"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Manual+%26+Automation+Testing+Specialist. ;Passionate+%7CQuality+%7CAutomation+%7CCollaboration."/>
 </p>
 
 ## 🧪 Automation Testing Tech Stack
@@ -46,7 +46,6 @@ I enjoy collaborating with development teams to improve processes and ensure sof
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" alt="Insomnia" width="40"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
