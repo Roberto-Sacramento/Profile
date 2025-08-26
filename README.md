@@ -50,7 +50,7 @@ I enjoy collaborating with development teams to improve processes and ensure sof
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto-Sacramento&theme=highcontrast)](https://github.com/Roberto-Sacramento/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Roberto-Sacramento&theme=dark&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Roberto-Sacramento&theme=javascript-dark_border=false)](https://git.io/streak-stats)
 
 ---
 
